@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "escolamobile2",
-    "slug": "escolamobile2",
+    "name": "escolareact",
+    "slug": "escolareact",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "escolamobile2",
+    "scheme": "escolareact",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
