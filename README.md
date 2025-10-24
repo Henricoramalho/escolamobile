@@ -1,50 +1,66 @@
-# Welcome to your Expo app 👋
+# 📱 Bem-vindo ao seu App Expo 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é um projeto criado com [**Expo**](https://expo.dev) utilizando o pacote [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Como começar
 
-   ```bash
-   npm install
-   ```
+### 1️⃣ Instalar dependências
+```bash
+npm install
+```
 
-2. Start the app
+### 2️⃣ Iniciar o aplicativo
+```bash
+npx expo start
+```
 
-   ```bash
-   npx expo start
-   ```
+Ao executar o comando acima, o terminal mostrará opções para abrir o app em:
 
-In the output, you'll find options to open the app in a
+- 📦 [**Build de desenvolvimento**](https://docs.expo.dev/develop/development-builds/introduction/)  
+- 🤖 [**Emulador Android**](https://docs.expo.dev/workflow/android-studio-emulator/)  
+- 🍎 [**Simulador iOS**](https://docs.expo.dev/workflow/ios-simulator/)  
+- 🌐 [**Expo Go**](https://expo.dev/go) — ambiente de testes simples e rápido para desenvolvimento com Expo  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🧩 Estrutura do projeto
 
-## Get a fresh project
+O código-fonte do app está dentro do diretório **`app/`**.  
+Este projeto utiliza **rotas baseadas em arquivos** ([file-based routing](https://docs.expo.dev/router/introduction)).
 
-When you're ready, run:
+---
+
+## 🔄 Reiniciar o projeto
+
+Quando quiser começar um projeto totalmente novo, execute:
 
 ```bash
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Esse comando moverá o código inicial para o diretório **`app-example/`**  
+e criará um novo diretório **`app/`** vazio, pronto para o desenvolvimento.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📚 Aprenda mais
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Explore a documentação e aprenda tudo sobre o Expo:
 
-## Join the community
+- 📖 [**Documentação do Expo**](https://docs.expo.dev/) — Fundamentos, guias avançados e boas práticas  
+- 🧠 [**Tutorial passo a passo**](https://docs.expo.dev/tutorial/introduction/) — Crie um app que roda em **Android**, **iOS** e **Web**
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🤝 Faça parte da comunidade
+
+Junte-se à comunidade de desenvolvedores que constroem apps universais com o Expo!
+
+- 💻 [**Expo no GitHub**](https://github.com/expo/expo) — Veja o código-fonte e contribua com o projeto  
+- 💬 [**Comunidade no Discord**](https://chat.expo.dev) — Tire dúvidas e compartilhe experiências  
+
+---
+
+> ✨ Feito com ❤️ usando [Expo](https://expo.dev)
